@@ -3,7 +3,7 @@ leave management system
 # How to setup:
 ## step 1:-
 first open xampp==> Apache and mysql
-downlod zip file : Already send (email)
+downlod zip file
 ## step 2:-
 mov it in to xampp folder==>htdoc
 ## stap 3 :-
