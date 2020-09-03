@@ -4,7 +4,7 @@ leave management system
 ## step 1:-
 first open xampp==> Apache and mysql
 downlod zip file : Already send (email)
-## mstep 2:-
+## step 2:-
 mov it in to xampp folder==>htdoc
 ## stap 3 :-
 open chrom (browser):-
