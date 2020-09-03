@@ -8,5 +8,5 @@ downlod zip file : Already send (email)
 mov it in to xampp folder==>htdoc
 ## stap 3 :-
 open chrom (browser):-
-## step 4: database setup:-
+## step 4: database setup(add database Name :- leavemng):-
 simply go throw the Database file and add the fill to (localhost/phpmyadmin)
