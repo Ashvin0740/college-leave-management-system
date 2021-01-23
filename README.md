@@ -17,7 +17,7 @@ mov it in to xampp folder==>htdoc
 ```
 open chrom (browser):-
 ```
-## step 4: database setup(add database Name :- leavemng):-
+## step 4: database setup(add database Name :- leavemng:
 ```
 simply go throw the Database file and add the fill to (localhost/phpmyadmin)
 ```
