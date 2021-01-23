@@ -1,7 +1,7 @@
 # college-leave-management-system
 
 
-* leave management system
+* leave management System
 # How to setup:
 
 ## step 1:-
